@@ -1,0 +1,4 @@
+export enum POSITION {
+  FRONTEND = 'FRONTEND',
+  BACKEND = 'BACKEND',
+}
